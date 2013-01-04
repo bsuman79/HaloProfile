@@ -1,0 +1,28 @@
+20
+24
+0
+0.0
+1300.0
+1024
+1000
+300.0
+200.0
+200.0
+0
+path to halo files 
+path to transfer function files
+
+// **** input file for code *****
+// number of mass bins 
+// number of files from halo finder= # of procs halo finder is run
+// model_no
+// redshift
+// box size (Mpc)
+// number of particles in the simulation
+// minimum number of particles in the halos considered for c-M
+// delta 1
+// delta 2
+// delta 3  if vir then put -1
+// rlaxed 1, unrelaxed 0
+// base halo file name (don't add sodproperties/sodprofile)
+// transfer function file
